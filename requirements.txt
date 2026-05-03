@@ -1,6 +1,6 @@
 streamlit
 pandas
-plotly.graph_objects
+plotly
 requests
 io
 openpyxl
